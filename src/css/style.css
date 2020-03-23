@@ -1,0 +1,9 @@
+html {
+  touch-action: manipulation;
+  height: 100%; }
+  html body {
+    font-family: "Microsoft JhengHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    touch-action: manipulation;
+    height: 100%; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlcyI6WyJzdHlsZS5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbImh0bWwge1xuICAgIHRvdWNoLWFjdGlvbjogbWFuaXB1bGF0aW9uO1xuICAgIGhlaWdodDogMTAwJTtcbiAgXG4gICAgYm9keSB7XG4gICAgICBmb250LWZhbWlseTogXCJNaWNyb3NvZnQgSmhlbmdIZWlcIiwgXCJIZWx2ZXRpY2EgTmV1ZVwiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmO1xuICAgICAgdG91Y2gtYWN0aW9uOiBtYW5pcHVsYXRpb247XG4gICAgICBoZWlnaHQ6IDEwMCU7XG4gICAgfVxuICB9Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLEFBQUEsSUFBSSxDQUFDO0VBQ0QsWUFBWSxFQUFFLFlBQVk7RUFDMUIsTUFBTSxFQUFFLElBQUksR0FPYjtFQVRILEFBSUksSUFKQSxDQUlBLElBQUksQ0FBQztJQUNILFdBQVcsRUFBRSxvRUFBb0U7SUFDakYsWUFBWSxFQUFFLFlBQVk7SUFDMUIsTUFBTSxFQUFFLElBQUksR0FDYiJ9 */
