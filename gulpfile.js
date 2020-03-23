@@ -12,7 +12,9 @@ function styles() {
       .src("./src/scss/**/*.scss")
       .pipe(sourcemaps.init())
       // 編譯 Scss
-      .pipe(gulpSass())
+      .pipe(gulpSass({
+        outputStyle: 'compressed'
+      }))
 
       .on("error", gulpSass.logError)
       .pipe(sourcemaps.write())
